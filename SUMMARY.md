@@ -6,6 +6,7 @@
 
 * [💡 What we do](overview/what-we-do.md)
 * [✨ Our Features](overview/our-features.md)
+* [☕ Fee Rate](overview/fee-rate.md)
 
 ## Integration Guid
 
