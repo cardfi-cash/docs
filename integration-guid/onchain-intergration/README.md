@@ -1,33 +1,13 @@
 # Onchain Intergration
 
-<details>
+## Support chains
 
-<summary>Step1: Creating your organization</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Step 2: Inviting your team</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Step 3: Making your first post</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Step 4: Publishing a post</summary>
-
-
-
-</details>
+| Chain   | Asserts | Address                                      |
+| ------- | ------- | -------------------------------------------- |
+| Solana  | USDT    | EKpdNp4X8uw3267qZCCBs3WuBYPW3vBnbC1x5gnGSv2K |
+|         | USDC    | EKpdNp4X8uw3267qZCCBs3WuBYPW3vBnbC1x5gnGSv2K |
+| POLYGON | USDT    |                                              |
+|         | USDC    |                                              |
+| TON     | USDT    |                                              |
+| BSC     | USDT    |                                              |
+|         | USDC    |                                              |

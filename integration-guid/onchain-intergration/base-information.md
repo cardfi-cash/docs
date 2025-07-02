@@ -1,33 +1,13 @@
 # Base Information
 
-<details>
+## Support chains
 
-<summary>Step1: Sign message to get API KEY</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Step 2: Fill information for card holder</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Step 3: Apply for new card with transaction</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Step 4: Updata card info by webhook</summary>
-
-
-
-</details>
+| Chain   | Asserts | Address                                      |
+| ------- | ------- | -------------------------------------------- |
+| Solana  | USDT    | EKpdNp4X8uw3267qZCCBs3WuBYPW3vBnbC1x5gnGSv2K |
+|         | USDC    | EKpdNp4X8uw3267qZCCBs3WuBYPW3vBnbC1x5gnGSv2K |
+| POLYGON | USDT    |                                              |
+|         | USDC    |                                              |
+| TON     | USDT    |                                              |
+| BSC     | USDT    |                                              |
+|         | USDC    |                                              |

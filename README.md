@@ -73,8 +73,8 @@ We've put together some helpful guides for you to do intergration with CardFi qu
 [api-integration](integration-guid/api-integration/)
 {% endcontent-ref %}
 
-{% content-ref url="integration-guid/api-integration/api-interface/" %}
-[api-interface](integration-guid/api-integration/api-interface/)
+{% content-ref url="integration-guid/api-integration/api-interface.md" %}
+[api-interface.md](integration-guid/api-integration/api-interface.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}

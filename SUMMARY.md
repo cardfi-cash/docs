@@ -12,13 +12,17 @@
 
 * [API Integration](integration-guid/api-integration/README.md)
   * [Base Information](integration-guid/api-integration/base-information.md)
-  * [API Interface](integration-guid/api-integration/api-interface/README.md)
+  * [API Interface](integration-guid/api-integration/api-interface.md)
     * [User Interface](integration-guid/api-integration/api-interface/user-interface.md)
     * [Merchant Interface](integration-guid/api-integration/api-interface/merchant-interface/README.md)
       * [Ping](integration-guid/api-integration/api-interface/merchant-interface/ping.md)
+      * [Add or update new sub-user information](integration-guid/api-integration/api-interface/merchant-interface/add-or-update-new-sub-user-information.md)
+      * [Get new sub-user information](integration-guid/api-integration/api-interface/merchant-interface/get-new-sub-user-information.md)
 * [Onchain Intergration](integration-guid/onchain-intergration/README.md)
   * [Base Information](integration-guid/onchain-intergration/base-information.md)
-  * [Contract Interface](integration-guid/onchain-intergration/contract-interface.md)
+  * [Solana](integration-guid/onchain-intergration/solana.md)
+  * [Polygon | BSC](integration-guid/onchain-intergration/polygon-or-bsc.md)
+  * [TON](integration-guid/onchain-intergration/ton.md)
 
 ## SDK
 
