@@ -12,7 +12,10 @@
 
 * [API Integration](integration-guid/api-integration/README.md)
   * [Base Information](integration-guid/api-integration/base-information.md)
-  * [API Interface](integration-guid/api-integration/api-interface.md)
+  * [API Interface](integration-guid/api-integration/api-interface/README.md)
+    * [User Interface](integration-guid/api-integration/api-interface/user-interface.md)
+    * [Merchant Interface](integration-guid/api-integration/api-interface/merchant-interface/README.md)
+      * [Ping](integration-guid/api-integration/api-interface/merchant-interface/ping.md)
 * [Onchain Intergration](integration-guid/onchain-intergration/README.md)
   * [Base Information](integration-guid/onchain-intergration/base-information.md)
   * [Contract Interface](integration-guid/onchain-intergration/contract-interface.md)
