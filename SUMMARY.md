@@ -20,6 +20,7 @@
       * [Get new sub-user information](integration-guid/api-integration/api-interface/merchant-interface/get-new-sub-user-information.md)
       * [Apply new sub-user card](integration-guid/api-integration/api-interface/merchant-interface/apply-new-sub-user-card.md)
       * [Order status check](integration-guid/api-integration/api-interface/merchant-interface/order-status-check.md)
+      * [Deposit sub-user card](integration-guid/api-integration/api-interface/merchant-interface/deposit-sub-user-card.md)
 * [Onchain Intergration](integration-guid/onchain-intergration/README.md)
   * [Solana](integration-guid/onchain-intergration/solana.md)
   * [Polygon | BSC](integration-guid/onchain-intergration/polygon-or-bsc.md)
