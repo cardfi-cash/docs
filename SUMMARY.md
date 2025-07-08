@@ -24,6 +24,7 @@
       * [Deposit sub-user card](integration-guid/api-integration/api-interface/merchant-interface/deposit-sub-user-card.md)
       * [Ger sub-user card transaction hisotry](integration-guid/api-integration/api-interface/merchant-interface/ger-sub-user-card-transaction-hisotry.md)
       * [Ger sub-user card balance hisotry](integration-guid/api-integration/api-interface/merchant-interface/ger-sub-user-card-balance-hisotry.md)
+      * [Card transfer to card](integration-guid/api-integration/api-interface/merchant-interface/card-transfer-to-card.md)
 * [Onchain Intergration](integration-guid/onchain-intergration/README.md)
   * [Solana](integration-guid/onchain-intergration/solana.md)
   * [Polygon | BSC](integration-guid/onchain-intergration/polygon-or-bsc.md)
