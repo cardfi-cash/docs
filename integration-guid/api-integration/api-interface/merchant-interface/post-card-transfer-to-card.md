@@ -2,7 +2,7 @@
 description: To transfer the card balance to other cards .Support base on same merchant
 ---
 
-# Card transfer to card
+# \[POST] Card transfer to card
 
 ## Path
 

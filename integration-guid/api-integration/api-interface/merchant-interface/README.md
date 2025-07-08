@@ -1,5 +1,6 @@
 ---
 description: API interface for merchant using cardFi service
+icon: shop
 ---
 
 # Merchant Interface

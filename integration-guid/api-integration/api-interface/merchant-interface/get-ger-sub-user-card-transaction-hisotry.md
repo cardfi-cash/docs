@@ -2,7 +2,7 @@
 description: To get the transactions history for sub user card
 ---
 
-# Ger sub-user card transaction hisotry
+# \[GET] Ger sub-user card transaction hisotry
 
 ## Path
 

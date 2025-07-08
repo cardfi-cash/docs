@@ -2,7 +2,7 @@
 description: To get the balance history for sub user card
 ---
 
-# Ger sub-user card balance hisotry
+# \[GET] Ger sub-user card balance hisotry
 
 ## Path
 

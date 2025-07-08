@@ -2,7 +2,7 @@
 description: Get all the sub-user
 ---
 
-# Get all sub-user
+# \[GET] Get all sub-user
 
 ## Path
 
