@@ -39,6 +39,9 @@ You can apply your API-KEY on CardFi Bot : [http://t.me/cardfi\_bot](http://t.me
 | USDCSOL      | 10    |
 | USDTARBITRUM | 10    |
 | USDCARBITRUM | 10    |
+| USDCBSC      | 10    |
+| USDTBSC      | 10    |
+| BSC          | 0.01  |
 
 ### Card Apply Fee
 
@@ -50,6 +53,9 @@ You can apply your API-KEY on CardFi Bot : [http://t.me/cardfi\_bot](http://t.me
 | ETHARBITRUM | 0.005 |
 | XMR         | 0.02  |
 | TRX         | 50    |
+| USDCBSC     | 10    |
+| USDTBSC     | 10    |
+| BSC         | 0.01  |
 
 ### API Index
 
