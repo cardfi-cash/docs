@@ -2,12 +2,12 @@
 description: Apply a new card for sub users
 ---
 
-# Apply new sub-user card
+# \[POST] Apply new sub-user card
 
 ## Path
 
 ```
-/merchain/user/card/new/:id
+/merchant/user/card/new/:id
 ```
 
 ## Method

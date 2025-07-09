@@ -2,12 +2,12 @@
 description: Add or update sub-user information
 ---
 
-# Add or update new sub-user information
+# \[POST] Add or update new sub-user information
 
 ## Path
 
 ```
-/merchain/user/reg
+/merchant/user/reg
 ```
 
 ## Method

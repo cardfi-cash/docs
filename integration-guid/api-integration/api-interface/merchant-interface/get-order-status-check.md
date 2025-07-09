@@ -2,12 +2,12 @@
 description: Check the deposite or apply status
 ---
 
-# Order status check
+# \[GET] Order status check
 
 ## Path
 
 ```
-merchain/order/check/id/oid
+/merchant/order/check/id/oid
 ```
 
 ## Method

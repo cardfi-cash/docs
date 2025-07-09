@@ -2,12 +2,12 @@
 description: Simply test if your API-KEY works
 ---
 
-# Ping
+# \[GET] Ping
 
 ## Path
 
 ```
-/merchain/ping
+/merchant/ping
 ```
 
 ## Method

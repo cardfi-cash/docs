@@ -7,7 +7,7 @@ description: To transfer the card balance to other cards .Support base on same m
 ## Path
 
 ```
-/merchain/user/card/transfer/:from/:to
+/merchant/user/card/transfer/:from/:to
 ```
 
 ## Method

@@ -2,12 +2,12 @@
 description: Restful API deposit interface
 ---
 
-# Deposit sub-user card
+# \[POST] Deposit sub-user card
 
 ## Path
 
 ```
-/merchain/user/card/new/:id
+/merchant/user/card/new/:id
 ```
 
 ## Method

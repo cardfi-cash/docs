@@ -7,7 +7,7 @@ description: To get the transactions history for sub user card
 ## Path
 
 ```
-merchain/user/card/:id/:cardId/transactions
+/merchant/user/card/:id/:cardId/transactions
 ```
 
 ## Method

@@ -2,12 +2,12 @@
 description: Get the user's currently information
 ---
 
-# Get new sub-user information
+# \[GET] Get sub-user information
 
 ## Path
 
 ```
-/merchain/user/info/:id
+/merchant/user/info/:id
 ```
 
 ## Method

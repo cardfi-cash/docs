@@ -7,7 +7,7 @@ description: Get all the sub-user
 ## Path
 
 ```
-/merchain/all/user
+/merchant/all/user
 ```
 
 ## Method

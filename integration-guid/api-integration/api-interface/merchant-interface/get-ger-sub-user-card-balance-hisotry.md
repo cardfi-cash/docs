@@ -7,7 +7,7 @@ description: To get the balance history for sub user card
 ## Path
 
 ```
-merchain/user/card/:id/:cardId/history
+/merchant/user/card/:id/:cardId/history
 ```
 
 ## Method
