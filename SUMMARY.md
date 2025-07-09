@@ -17,7 +17,7 @@
     * [Merchant Interface](integration-guid/api-integration/api-interface/merchant-interface/README.md)
       * [\[GET\] Ping](integration-guid/api-integration/api-interface/merchant-interface/get-ping.md)
       * [\[POST\] Add or update new sub-user information](integration-guid/api-integration/api-interface/merchant-interface/post-add-or-update-new-sub-user-information.md)
-      * [\[GET\] Get new sub-user information](integration-guid/api-integration/api-interface/merchant-interface/get-get-new-sub-user-information.md)
+      * [\[GET\] Get sub-user information](integration-guid/api-integration/api-interface/merchant-interface/get-get-sub-user-information.md)
       * [\[GET\] Get all sub-user](integration-guid/api-integration/api-interface/merchant-interface/get-get-all-sub-user.md)
       * [\[POST\] Apply new sub-user card](integration-guid/api-integration/api-interface/merchant-interface/post-apply-new-sub-user-card.md)
       * [\[GET\] Order status check](integration-guid/api-integration/api-interface/merchant-interface/get-order-status-check.md)
