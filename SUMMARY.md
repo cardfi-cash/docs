@@ -22,6 +22,7 @@
       * [\[GET\] Ger sub-user card transaction hisotry](integration-guid/api-integration/api-interface/merchant-interface/get-ger-sub-user-card-transaction-hisotry.md)
       * [\[GET\] Ger sub-user card balance hisotry](integration-guid/api-integration/api-interface/merchant-interface/get-ger-sub-user-card-balance-hisotry.md)
       * [\[GET\] Merchant get all card](integration-guid/api-integration/api-interface/merchant-interface/get-merchant-get-all-card.md)
+      * [\[GET\] Get card information](integration-guid/api-integration/api-interface/merchant-interface/get-get-card-information.md)
       * [\[POST\] Add or update new sub-user information](integration-guid/api-integration/api-interface/merchant-interface/post-add-or-update-new-sub-user-information.md)
       * [\[POST\] Apply new sub-user card](integration-guid/api-integration/api-interface/merchant-interface/post-apply-new-sub-user-card.md)
       * [\[POST\] Deposit sub-user card](integration-guid/api-integration/api-interface/merchant-interface/post-deposit-sub-user-card.md)
