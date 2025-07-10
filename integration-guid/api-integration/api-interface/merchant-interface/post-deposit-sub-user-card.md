@@ -7,7 +7,7 @@ description: Restful API deposit interface
 ## Path
 
 ```
-/merchant/user/card/new/:id
+/merchant/user/card/deposite/:id
 ```
 
 ## Method
