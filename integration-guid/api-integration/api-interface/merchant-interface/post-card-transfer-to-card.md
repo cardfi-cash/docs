@@ -34,6 +34,8 @@ null
 ```
 {
     "amount":5, // Amount to transfer . Mini 5 $
+    "fromCardId":0, //Card Type default 0
+    "toCardId":0,
 }
 ```
 
