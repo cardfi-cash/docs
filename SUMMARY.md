@@ -29,7 +29,8 @@
       * [\[POST\] Card transfer to card](integration-guid/api-integration/api-interface/merchant-interface/post-card-transfer-to-card.md)
 * [Onchain Intergration](integration-guid/onchain-intergration/README.md)
   * [Solana](integration-guid/onchain-intergration/solana.md)
-  * [Polygon | BSC](integration-guid/onchain-intergration/polygon-or-bsc.md)
+  * [Arbitrum | Polygon | BSC](integration-guid/onchain-intergration/polygon-or-bsc/README.md)
+    * [ABI](integration-guid/onchain-intergration/polygon-or-bsc/abi.md)
   * [TON](integration-guid/onchain-intergration/ton.md)
 
 ## SDK
