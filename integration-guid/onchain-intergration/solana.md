@@ -4,7 +4,7 @@ description: Onchain deposite & apply on solana
 
 # Solana
 
-## Token Support&#x20;
+## Token Support
 
 Currently cardFi support follow tokens on solana chains
 
@@ -12,13 +12,13 @@ Currently cardFi support follow tokens on solana chains
 | ---- | -------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
 | USDT | Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB | EKpdNp4X8uw3267qZCCBs3WuBYPW3vBnbC1x5gnGSv2K | 34uXzajC7JSwNc1ogiPqQPQ9FCw3FJVNSoSneUwhY4xc |
 
-## Deposit Rules&#x20;
+## Deposit Rules
 
-You can deposit asserts to any card on CardFi system with follow rules :&#x20;
+You can deposit asserts to any card on CardFi system with follow rules :
 
 1. Create a new transaction
 2. Add a USDT SPL-transfer transaction
-3. Add a MEMO-transaction using `splMemo` . Input the `user_card_id` you wants to deposit with `base64` string .&#x20;
+3. Add a MEMO-transaction using `splMemo` . Input the `user_card_id` you wants to deposit with `base64` string .
 4. Send out the transaction and wait for callback .
 
 ### Deposit Example \[Node.js]
@@ -60,3 +60,7 @@ async function main() {
 main().catch(console.error);
 
 ```
+
+## Apply Rules
+
+Same as deposit . mast > $3&#x20;
